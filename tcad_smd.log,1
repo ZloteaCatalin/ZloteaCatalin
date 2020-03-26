@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Tcad_smd.dra                                  )
+(    Software Version : 16.6-2015S059                                 )
+(    Date/Time        : Tue Jan 08 20:51:16 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/cata_/AppData/Roaming/SPB_16.6
+    Name      = tcad_smd.psm
+    User      = cata_
+    Machine   = DESKTOP-IMHU2M8
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Tcad_smd1.dra                                 )
+(    Software Version : 16.6-2015S059                                 )
+(    Date/Time        : Wed Jan 09 21:07:48 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/cata_/AppData/Roaming/SPB_16.6
+    Name      = tcad_smd1.psm
+    User      = cata_
+    Machine   = DESKTOP-IMHU2M8
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

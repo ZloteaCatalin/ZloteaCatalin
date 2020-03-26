@@ -1,0 +1,7 @@
+\t (00:00:00) spif 16.6 S027 (v16-6-112BZ) Windows 32
+\t (00:00:00)     Journal start - Thu Nov 08 18:45:32 2018
+\t (00:00:00)         Host=DESKTOP-IMHU2M8 User=cata_ Pid=22272 CPUs=4
+\t (00:00:00) CmdLine= C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\spif.exe
+\t (00:00:00) 
+\i (00:00:58) fillin "menu_cancel"
+\t (00:00:58)     Journal end - Thu Nov 08 18:46:30 2018

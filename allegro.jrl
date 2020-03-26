@@ -1,0 +1,17 @@
+\t (00:00:04) allegro 17.2 S049 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Tue Nov 05 23:09:21 2019
+\t (00:00:04)         Host=DESKTOP-IMHU2M8 User=cata_ Pid=14468 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:11) fillin yes 
+\i (00:00:11) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged Tcad_smd
+\d (00:00:11) Design opened: C:/USERS/CATA_/APPDATA/ROAMING/SPB_16.6/Tcad_smd.dra
+\i (00:00:12) trapsize 3
+\i (00:00:12) trapsize 3
+\i (00:00:13) generaledit 
+\i (00:00:18) exit 
+\e (00:00:18) Do you want to save the changes you made to Tcad_smd.dra?
+\i (00:00:20) fillin no 
+\t (00:00:21)     Journal end - Tue Nov 05 23:09:38 2019
